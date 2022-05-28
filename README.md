@@ -11,7 +11,7 @@ install the zip file
 
 Install the Node Modules
 ```
-> npm instal
+> npm install
 ```
 
 Start the Server
